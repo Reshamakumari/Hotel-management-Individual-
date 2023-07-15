@@ -1,0 +1,5 @@
+Database Name : - hotel.sql
+user name : - Reshama
+password  : - 123456
+
+ENJOY DDDD
